@@ -8,4 +8,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
+  base: '/carbon-footprint-tracker/', // <--- ADD THIS EXACT LINE
 })
