@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+body {
+  background-color: #f8fafc;
+  color: #0f172a;
+  font-family: system-ui, -apple-system, sans-serif;
+}
+
+/* Premium Layout Slide Animations */
+@keyframes structuralSlide {
+  from {
+    opacity: 0;
+    transform: translateY(-24px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-layout-glide {
+  animation: structuralSlide 0.5s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
