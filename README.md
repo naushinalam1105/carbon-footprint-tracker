@@ -1,16 +1,22 @@
-# React + Vite
+# EcoStep - Interactive Carbon Footprint Optimization Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+EcoStep is a premium environmental tracking application built to make personal carbon impact measurable, clear, and actionable. Users can monitor multi-vector emission metrics, interact with clean energy simulations, and engage with community lifestyle pledges.
 
-Currently, two official plugins are available:
+## 🚀 Live Demonstration
+[👉 Access the Live Application Here](https://carbon-footprint-tracker-khaki.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Core Architecture Features
+* **Default Dark Mode:** Initialized into a high-end, premium dark aesthetic layout optimized for dashboard clarity.
+* **Expanded Tracking Engine:** Real-time impact calculations handling transit mode profiles, electricity grid metrics, dietary consumption, direct volumetric water usage, and domestic waste coefficients.
+* **Interactive Offset Simulator Workspace:** Sandbox dashboard panel allowing direct live simulation of canopy reforestation vectors and clean grid solar infrastructure injection to neutralize carbon scores.
+* **Weekly Eco-Challenges:** Dynamic checklist interface with integrated tracking formulas to incentivize real lifestyle adjustments.
+* **Interactive Educational Info Modals:** Dynamic context triggers next to input fields that slide open popups explaining the environmental science behind data metrics.
+* **Real-World Impact Equivalencies:** Data engine parsing abstract metric parameters into high-fidelity real-world comparisons (e.g., equivalent smartphone battery charge cycles or incinerated plastic refuse bags).
+* **Earned Achievements & Gamification:** Structural state system triggering progressive badge awards for green thresholds.
+* **Data Logging Exports:** Built-in engine to safely backup and download local history files as clear JSON data reports.
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Technological Stack
+* **Framework Engine:** React (Vite development environment)
+* **Styling Matrix:** Tailwind CSS v4
+* **Vector Analytics:** Recharts Data Visualization Layouts
+* **Icon Assets:** Lucide React Pack
